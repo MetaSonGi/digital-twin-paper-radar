@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models",
+    "url": "https://arxiv.org/abs/2601.01321",
+    "published": "2026-01-04",
+    "status": "arXiv preprint",
+    "summary": "The abstract organizes AI-enabled twins into modeling, mirroring, intervention and autonomous management; it discusses physics-informed approaches and world models."
+  },
+  {
+    "title": "Grounding Time-Series Foundation Models in Digital Twin Topology for Predictive Maintenance",
+    "url": "https://arxiv.org/abs/2609.40071",
+    "published": "2026-09-30",
+    "status": "arXiv preprint; submitted to RESS",
+    "summary": "The abstract describes topology-constrained fusion of time-series representations for predictive maintenance. Cross-channel information and target-task adaptation are investigated; benefits depend on the benchmark."
+  },
+  {
+    "title": "LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41232",
+    "published": "2026-03-14",
+    "status": "AAAI proceedings",
+    "summary": "The abstract describes extracting unstructured planning knowledge into an ontology and using a semantic layer for infrastructure planning."
+  }
+]

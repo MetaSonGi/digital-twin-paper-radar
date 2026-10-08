@@ -1,0 +1,8 @@
+Validation date: 2026-10-08 (Asia/Seoul)
+test_future_and_duplicate_excluded (test_main.RadarTests.test_future_and_duplicate_excluded) ... ok
+test_sources_and_matching (test_main.RadarTests.test_sources_and_matching) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
